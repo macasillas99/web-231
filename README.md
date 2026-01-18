@@ -1,2 +1,14 @@
-# web-231
-Repo for WEB231 Enterprise JavaScript I
+\# WEB 231 Enterprise JavaScript I
+
+
+
+\## Contributors
+
+
+
+\- Instructor: Richard Krasso
+
+\- Maxine Casillas
+
+
+
